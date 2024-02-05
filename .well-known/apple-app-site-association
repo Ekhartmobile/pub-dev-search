@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "UR97YCK33L.io.wio.retail.develop",
-        "paths": ["/*"]
+        "paths": ["*"]
       }
     ]
   }
