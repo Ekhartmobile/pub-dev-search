@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.wio.retail.develop",
+    "sha256_cert_fingerprints":
+    ["33:DC:BF:2E:80:81:2E:61:D4:01:9C:67:14:65:D1:4C:86:6A:35:98:F7:51:75:E2:27:C9:A4:CF:76:E7:57:F0"]
+  }
+}]
