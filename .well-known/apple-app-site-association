@@ -5,13 +5,13 @@
       {
         "appID": "UR97YCK33L.io.wio.retail.develop",
         "paths": [
-          "*"
+          "*npss*"
         ]
       },
       {
         "appID": "UR97YCK33L.io.wio.retail",
         "paths": [
-          "*"
+          "*npss*"
         ]
       }
     ]
