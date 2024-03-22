@@ -4,15 +4,11 @@
     "details": [
       {
         "appID": "UR97YCK33L.io.wio.retail.develop",
-        "paths": [
-          "*npss*"
-        ]
+        "paths": ["*npss*"]
       },
       {
         "appID": "UR97YCK33L.io.wio.retail",
-        "paths": [
-          "*npss*"
-        ]
+        "paths": ["*npss*"]
       }
     ]
   }
